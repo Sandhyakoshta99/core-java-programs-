@@ -25,7 +25,6 @@ public class StudentTest {
 	  System.out.println(s3);
 	  System.out.println(s5);
 	  
-	
 	 
 	  System.out.print(" Student ID :"+s4.getId());
 	  System.out.print(" Student name :"+s4.getStName());			
